@@ -1,0 +1,7 @@
+node_modules
+client
+serviceAccountKey.json
+/serviceAccountKey.json
+public
+/public
+server/uploads
